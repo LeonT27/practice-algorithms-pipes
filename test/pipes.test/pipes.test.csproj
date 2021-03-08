@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\pipes.console\pipes.console.csproj" />
+    <ProjectReference Include="..\..\src\pipes.console\pipes.console.csproj" />
   </ItemGroup>
 
 </Project>
